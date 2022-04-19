@@ -55,7 +55,7 @@ namespace NumberGuesser
         static void GetAppInfo()
         {
             string appAuthor = "Szymko";
-            string appName = "Guessing the number";
+            string appName = "Guessing the secret number";
             int appVersion = 1;
 
             Console.WriteLine($"Welcome to the company {appAuthor}_DEV:");
